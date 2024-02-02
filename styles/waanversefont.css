@@ -1,0 +1,38 @@
+@font-face {
+    font-family: "Waanverse Font";
+    src: local("Waanverse Font Bold Italic"), local("WaanverseFont-BoldItalic"),
+        url("../fonts/waan_bold_italic.woff2") format("woff2");
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Waanverse Font";
+    src: local("Waanverse Font Bold"), local("WaanverseFont-Bold"),
+        url("../fonts/waan_bold.woff2") format("woff2");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Waanverse Font";
+    src: local("Waanverse Font"), local("WaanverseFont-Regular"),
+        url("../fonts/waan_regular.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Waanverse Font";
+    src: local("Waanverse Font Italic"), local("WaanverseFont-Italic"),
+        url("../fonts/waan_italic.woff2") format("woff2");
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+
